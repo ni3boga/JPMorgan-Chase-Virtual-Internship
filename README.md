@@ -4,7 +4,7 @@ This program is provided by JPMorgan Chase & Co.
 ## [Certificate of Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_aLWySxyciFfDsH4Mb_1630658279736_completion_certificate.pdf)
 
 ![Certificate](https://github.com/ni3boga/JPMorgan-Chase-Virtual-Internship/blob/main/Certificate.jpg)
-## Project Overview
+Internship Overview
 
 This project consists of 3 tasks.
 
