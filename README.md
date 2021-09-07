@@ -6,7 +6,7 @@ This program is provided by JPMorgan Chase & Co.
 ![Certificate](https://github.com/ni3boga/JPMorgan-Chase-Virtual-Internship/blob/main/Certificate.jpg)
 Internship Overview
 
-This project consists of 3 tasks.
+##This project consists of 3 tasks.
 
 + Task 1: Interface with a stock price data feed
 
